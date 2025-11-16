@@ -1,3 +1,25 @@
+<table>
+<tr>
+<td width="150">
+
+<img src="image.jpeg" width="150" style="border-radius: 50%;">
+
+</td>
+<td>
+
+# **Sudarshana Zagade**  
+### 💻 Web Developer | MCA Student  
+
+🌟 Passionate about creating responsive, user-focused web experiences.  
+🔥 *Coding with Purpose. Learning with Passion.*
+
+</td>
+</tr>
+</table>
+
+
+
+
 # 👋 Hi, I'm **Sudarshana Zagade**  
 ### 💻 Web Developer | MCA Student | Passionate Coder  
 
