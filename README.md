@@ -26,7 +26,7 @@ I enjoy turning ideas into real, functional digital experiences using **HTML, CS
 ## 🛠️ **Tech Stack**
 
 ### **Languages**
-![Languages](https://skillicons.dev/icons?i=c,cpp,js,python,html,css)
+![Languages](https://skillicons.dev/icons?i=c,cpp,js,python,html,css,java)
 
 ### **Frontend**
 ![Frontend](https://skillicons.dev/icons?i=react,bootstrap)
