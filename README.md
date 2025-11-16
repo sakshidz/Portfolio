@@ -1,126 +1,87 @@
-Sudarshana Zagade – Web Developer | MCA Student
+# 👋 Hi, I'm **Sudarshana Zagade**  
+### 💻 Web Developer | MCA Student | Passionate Coder  
 
-📞 +91 9860130971
-📧 sudarshanazagade@gmail.com
+🔥 *Coding with Purpose. Learning with Passion.*  
 
-🔗 LinkedIn
+---
 
-💻 GitHub
+## 🚀 **About Me**
+I'm a motivated and passionate **Web Developer** with **1+ years of hands-on experience** in building clean, responsive, and user-focused web applications.  
+I enjoy turning ideas into real, functional digital experiences using **HTML, CSS, JavaScript, React**, and **Python**.
 
-👩‍💻 About Me
+📚 Currently pursuing **MCA (2025)**  
+💡 Constantly learning, exploring, and building impactful solutions.
 
-Motivated and passionate Web Developer with 1+ years of hands-on experience in building responsive and user-friendly websites and applications.
-Skilled in HTML, CSS, JavaScript, React, C, C++, and Python, with strong abilities in API integration, performance optimization, UI/UX collaboration, and clean coding.
+---
 
-Currently pursuing MCA (2025) and actively applying academic knowledge to real-world development projects.
+## 🛠️ **Tech Stack**
 
-🛠️ Technical Skills
-Languages
+### **Languages**
+![Languages](https://skillicons.dev/icons?i=c,cpp,js,python,html,css)
 
-C
+### **Frontend**
+![Frontend](https://skillicons.dev/icons?i=react,bootstrap)
 
-C++
+### **Tools & Platforms**
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
-JavaScript
+---
 
-Python
+## 🌟 **Soft Skills**
+- Problem Solving  
+- Analytical Thinking  
+- Adaptability  
+- Team Collaboration  
+- Time Management  
+- Communication  
 
-HTML
+---
 
-CSS
+## 💼 **Experience**
 
-Frameworks & Libraries
+### **Front End Developer – Square Software Solutions Pvt. Ltd., Pune**  
+**Aug 2023 – Jan 2025**
+- Built and maintained responsive web interfaces using **HTML, CSS, JS, React**  
+- Integrated APIs with backend systems  
+- Improved SEO, performance, and mobile responsiveness  
+- Worked closely with UI/UX teams  
+- Participated in Agile development practices  
 
-React.js
+---
 
-Bootstrap
+## 🚀 **Projects**
 
-Tools & Technologies
+### 🔹 **Responsive News Aggregator Website**
+- Full-stack news search application  
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript  
+- **Backend:** Django (Python)  
+- **Database:** SQLite  
+- Features: real-time news API, topic filtering, SEO optimization  
 
-Git
+➡️ *(Add GitHub link here if available)*
 
-VS Code
+---
 
-API Integration
+## 📊 **GitHub Stats**
 
-Other Skills
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudarshana-zagade&show_icons=true&theme=blueberry" height="160px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshana-zagade&layout=compact&theme=blueberry" height="160px">
+</p>
 
-Responsive Web Design
+---
 
-Debugging
+## 📫 **Connect with Me**
 
-Performance Optimization
+📩 **Email:** sudarshanazagade@gmail.com  
+🔗 **LinkedIn:** *[linkedin.com/in/sudarshana-zagade](https://www.linkedin.com/in/sudarshana-zagade-794355308/)*  
+💻 **GitHub:** *github.com/sudarshana-zagade*  
 
-Agile Methodologies
+---
 
-🤝 Soft Skills
+## ✨ **Fun Fact About Me**
+I love creating user-friendly web experiences and I'm always eager to learn something new in tech every day! 🚀
 
-Strong Problem-Solving
+---
 
-Analytical Thinking
-
-Adaptability & Quick Learning
-
-Team Collaboration
-
-Communication Skills
-
-Time Management
-
-💼 Experience
-Square Software Solutions Pvt. Ltd., Pune
-
-Front End Developer | Aug 2023 – Jan 2025
-
-Developed and maintained responsive websites using HTML, CSS, JavaScript, React.
-
-Collaborated with backend teams for API integration.
-
-Improved performance, SEO, and mobile responsiveness.
-
-Participated in Agile practices: stand-ups, sprint planning, code reviews.
-
-Worked closely with UI/UX designers to create user-friendly interfaces.
-
-🎓 Education
-
-MCA – Master of Computer Applications
-Vidya Pratishthan’s Institute of Information Technology, Baramati
-2024 – Present
-
-BCA – Bachelor of Computer Applications
-PDEA’s Waghire College, Saswad
-2021 – 2024
-
-HSC (Science)
-Punyashlok Ahilyadevi Vidyamandir, Jejuri
-2019 – 2021
-
-🚀 Projects
-🔹 Responsive News Aggregator Website (2024)
-
-Built a full-stack web app fetching and displaying real-time news based on user search.
-
-Frontend: HTML, CSS, Bootstrap, JavaScript
-
-Backend: Django (Python)
-
-Database: SQLite
-
-Implemented custom topic filtering, improved SEO, and enhanced UI/UX.
-
-📜 Certifications
-
-Python Programming
-
-C++ Programming
-
-C Programming
-
-🌐 Languages
-
-Hindi – Fluent
-
-Marathi – Fluent
-
-English – Intermediate
+### ⭐ If you like my work, feel free to ⭐ my repositories!
