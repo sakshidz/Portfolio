@@ -1,22 +1,20 @@
 <table>
 <tr>
-<td width="150">
+<td width="150px">
 
-<img src="image.jpeg" width="150" style="border-radius: 50%;">
+<img src="image.jpeg" width="150px" style="border-radius: 10px;" />
 
 </td>
 <td>
 
-# **Sudarshana Zagade**  
-### 💻 Web Developer | MCA Student  
+# 👋 Hi, I'm **Sudarshana Zagade**  
+### 💻 Web Developer | MCA Student | Passionate Coder  
 
-🌟 Passionate about creating responsive, user-focused web experiences.  
 🔥 *Coding with Purpose. Learning with Passion.*
 
 </td>
 </tr>
 </table>
-
 
 
 
