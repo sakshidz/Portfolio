@@ -18,13 +18,6 @@
 
 
 
-# 👋 Hi, I'm **Sudarshana Zagade**  
-### 💻 Web Developer | MCA Student | Passionate Coder  
-
-🔥 *Coding with Purpose. Learning with Passion.*  
-
----
-
 ## 🚀 **About Me**
 I'm a motivated and passionate **Web Developer** with **1+ years of hands-on experience** in building clean, responsive, and user-focused web applications.  
 I enjoy turning ideas into real, functional digital experiences using **HTML, CSS, JavaScript, React**, and **Python**.
