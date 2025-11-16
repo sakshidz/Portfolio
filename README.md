@@ -7,11 +7,7 @@
 </td>
 <td>
 
-# 👋 Hi, I'm **Sudarshana Zagade**  
-### 💻 Web Developer | MCA Student | Passionate Coder  
-
-🔥 *Coding with Purpose. Learning with Passion.*
-
+I code with purpose and turn ideas into interactive, user-focused digital solutions. With a balance of clean code, thoughtful design, and continuous learning, I strive to create technology that truly makes an impact.
 </td>
 </tr>
 </table>
